@@ -35,6 +35,7 @@ body {
 
   .flex{
     display: flex;
+    flex-wrap: wrap;
   }
 
   input:last-child{
