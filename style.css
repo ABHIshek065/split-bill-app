@@ -35,7 +35,7 @@ body {
 
   .flex{
     display: flex;
-/*     flex-wrap: wrap; */
+    flex-wrap: wrap;
   }
 
   input:last-child{
@@ -56,5 +56,12 @@ body {
     font-weight: bolder;
     color: aqua;
     margin: 0;
+  }
+
+  @media only screen and (max-width: 774px){
+input{
+  width: 100%;
+  margin: 12px;
+}
   }
 
