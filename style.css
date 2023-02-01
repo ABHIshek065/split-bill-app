@@ -58,7 +58,7 @@ body {
     margin: 0;
   }
 
-  @media only screen and (max-width: 774px){
+  @media  (max-width: 799px){
 input{
   width: 100%;
   margin: 12px;
