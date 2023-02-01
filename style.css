@@ -47,6 +47,7 @@ body {
     padding: 15px;
     border-radius: 12px;
     font-size: 17px;
+    box-sizing:border-box
   }
 
 
