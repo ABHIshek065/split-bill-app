@@ -43,7 +43,7 @@ body {
   }
   
   input {
-  \* border: 1px solid lightgrey;
+  /*border: 1px solid lightgrey;
     padding: 15px;
     border-radius: 12px;
     font-size: 17px;
